@@ -1,6 +1,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "CFServer",
+    name: "SwiftMongoDB",
     dependencies: []
 )
